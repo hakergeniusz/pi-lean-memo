@@ -1,0 +1,1 @@
+{"description": "Tiny persistent TODO memory (global + project TODO.md) with session-attached entries. Under 200 tokens base overhead.","keywords": ["pi", "pi-package", "todo", "memory"],"license": "MIT","name": "pi-lean-memo","pi": {"extensions": ["./index.ts"]},"type": "module","version": "0.1.0"}
